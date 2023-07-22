@@ -1,1 +1,0 @@
-# smol-experiment
